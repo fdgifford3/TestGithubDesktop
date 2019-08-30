@@ -5,8 +5,9 @@ public class TestingGithubDesktop {
 		// TODO Auto-generated method stub
 		String gitVar;
 		gitVar = "Testing Branching";
-        System.out.println("Hello Github");
-        System.out.println(gitVar);
+		
+		System.out.println("Hello Github");
+		System.out.println(gitVar);
 	}
 
 }
